@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U1kcyiVQFjhT75uGSwN+xLwIsck9jgxPir1wWZ81RmULd7vZUQ8x4Ud/PKT6VCoyybaEBjCeNEjcdHVRFuzEXw==",
+  "dgSpecHash": "CsdwJNB5nJVkGFjw3z8aFefK/AkmbiWn0ytVgvwwDkER1F//eWy911bcumk/xN9Ts5gt8hoNBqDFW9z40mBhuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ola\\Downloads\\ReactionTestApp-main\\ReactionTimeApp.csproj",
+  "projectFilePath": "C:\\Users\\Ola\\Documents\\dokumenty studia\\magisterka\\Biometria\\Biometria projekt\\ReactionTestApp-main\\ReactionTimeApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ola\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.21\\microsoft.aspnetcore.cryptography.internal.3.1.21.nupkg.sha512",
     "C:\\Users\\Ola\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.21\\microsoft.aspnetcore.cryptography.keyderivation.3.1.21.nupkg.sha512",
