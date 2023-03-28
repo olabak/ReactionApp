@@ -1,0 +1,990 @@
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.exe
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.deps.json
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.json
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.dev.json
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.csprojAssemblyReference.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfoInputs.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfo.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.Manifest.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ReactionTimeApp.styles.css
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.input.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.output.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorCoreGenerate.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CopyComplete
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\ReactionTimeApp.genruntimeconfig.cache
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTimeApp\ReactionTimeApp\ReactionTimeApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.exe
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.deps.json
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.json
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.dev.json
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csprojAssemblyReference.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfoInputs.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfo.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.Manifest.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\scopedcss\bundle\ReactionTimeApp.styles.css
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.input.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.output.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorCoreGenerate.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CopyComplete
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.genruntimeconfig.cache
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\Create.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\Delete.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\Details.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\Edit.cshtml.g.cs
+C:\Users\Julia\Downloads\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\Index.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.exe
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.deps.json
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.json
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.dev.json
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csprojAssemblyReference.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfoInputs.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfo.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.Manifest.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\scopedcss\bundle\ReactionTimeApp.styles.css
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.input.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.output.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorCoreGenerate.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CopyComplete
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.genruntimeconfig.cache
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelEasy.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelHard.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelMedium.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\bigGreenBox.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\mediumShapes.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\tinyShapes.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\BigGreenBox.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Easy.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Hard.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Medium.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\MediumShapes.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\TinyShapes.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Result.cshtml.g.cs
+C:\Users\Julia\Desktop\ReactionTestApp-main\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\memory.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.exe
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.deps.json
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.json
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.Manifest.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\scopedcss\bundle\ReactionTimeApp.styles.css
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.input.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.output.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorCoreGenerate.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\bigGreenBox.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelEasy.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelHard.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelMedium.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\mediumShapes.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\memory.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\tinyShapes.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\BigGreenBox.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Easy.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Hard.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Medium.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\MediumShapes.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Result.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\TinyShapes.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cache
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cs
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CopyComplete
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\PC\OneDrive\Pulpit\TSWM zrobione gry\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.genruntimeconfig.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.exe
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.deps.json
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.json
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.runtimeconfig.dev.json
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.AssemblyReference.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfoInputs.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.AssemblyInfo.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorAssemblyInfo.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.Manifest.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\staticwebassets\ReactionTimeApp.StaticWebAssets.xml
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.input.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.TagHelpers.output.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorCoreGenerate.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\bigGreenBox.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelEasy.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelHard.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\levelMedium.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\mediumShapes.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\memory.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\ReactionTest\tinyShapes.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\BigGreenBox.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Easy.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Hard.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Medium.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\MediumShapes.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\Result.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Results\TinyShapes.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.RazorTargetAssemblyInfo.cs
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.Views.pdb
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.csproj.CopyComplete
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.dll
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.pdb
+C:\Users\Ola\Downloads\ReactionTestApp-main\obj\Debug\netcoreapp3.1\ReactionTimeApp.genruntimeconfig.cache

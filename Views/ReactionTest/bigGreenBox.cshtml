@@ -1,0 +1,172 @@
+﻿@{
+    ViewData["Title"] = "bigGreenBox";
+
+}
+<h1>Big Green Box</h1>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Reaction time test 6</title>
+
+    <style>
+
+        :root {
+            --bound: 100px;
+        }
+
+        body {
+            background-color: rgba(11, 19, 17, 0.5);
+            text-align: center;
+            color: #000000;
+            opacity: 1;
+            font-family: Arial;
+        }
+
+        .p {
+            text-align: center;
+            color: #000000;
+            opacity: 1;
+            font-family: Arial;
+            font-weight: bold;
+        }
+
+        .gr {
+            color: rgb(0, 255, 13);
+        }
+
+        .s {
+            background-color: rgb(0, 255, 13);
+            font-family: Arial;
+            font-weight: bold;
+            width: 150px;
+            height: 70px;
+        }
+
+        #box {
+            width: var(--bound*10);
+            height: var(--bound);
+            background-color: red;
+            opacity: 1;
+            display: none;
+            position: relative;
+        }
+    </style>
+
+</head>
+<body>
+    
+    <div id="text">
+        <h1>Click on the <span class="gr">GREEN</span> box as fast as u can :)</h1>
+        <h4>Before you start, please enter your age and the device you are using. </h4>
+        <h5> Click "Save Game" to save your best result.</h5>
+    </div>
+    <div>
+        <input id="userAge" type="number" placeholder="Type your age">
+        <input id="userDevice" type="text" placeholder="What is your device?">
+    </div>
+    <div>
+        <button class="s" onclick="gameStart()" type="button">Start Game</button>
+        <button class="s" id="SaveGame" type="button">Save Game</button>
+    </div>
+    <p class="p">Reaction time: <span id="time">0</span>s</p>
+    <h1> </h1>
+    <div id="box"></div>
+
+    <script type="text/javascript">
+        var createdTime;
+        var clickedTime;
+        var reactionTime;
+        var testName = "Big green box";
+        var list = [];
+
+        function makebox() {
+
+            var time = Math.random();
+            time = time * 10000; //speed nowy folder
+
+            setTimeout(function () {
+                document.getElementById('box').style.borderRadius = "0x";
+                document.getElementById('box').style.border = "5px solid black";
+
+
+
+                if (document.documentElement.clientWidth > document.documentElement.clientHeight) {
+                    var dynamicBound = document.documentElement.clientWidth / 4;
+
+                } else {
+                    var dynamicBound = document.documentElement.clientHeight / 10;
+                }
+
+                dynamicBound = dynamicBound + "px";
+                document.documentElement.style.setProperty("--bound", dynamicBound);
+
+
+
+                document.getElementById('box').style.backgroundColor = 'rgb(0, 255, 13)';
+                document.getElementById('box').style.display = "block";
+
+
+                createdTime = Date.now();
+            }, time);
+
+
+        }
+
+        function gameStart() {
+             var a = 0;
+             document.getElementById("userAge").style.display = 'none';
+             document.getElementById("userDevice").style.display = 'none';
+             document.getElementById("text").style.display = 'none';
+            document.getElementById('box').onclick = function(){
+                this.style.display="none";
+                clickedTime = Date.now();
+                reactionTime = (clickedTime - createdTime) / 1000;
+                document.getElementById('time').innerHTML = reactionTime;
+                list[a] = reactionTime;
+                a++;
+                makebox();
+            }
+            makebox();
+        }
+
+        document.getElementById("SaveGame").onclick = function () {
+
+            var min = 10000;
+            for (var i = 0; i < list.length; i++) {
+
+                if (min >= list[i]) {
+                    min = list[i];
+                }
+            }
+            var userAge = document.getElementById("userAge").value;
+            var userDevice = document.getElementById("userDevice").value;
+            console.log(userAge);
+            reactionSpan = min * 1000;
+             $.ajax({
+                url: '@Url.Action("AddRecordToReactionTest", "ReactionTest")',
+                type: 'POST',
+                data: {
+                    "span": reactionSpan,
+                    "testName": testName,
+                    "userAge": userAge,
+                    "userDevice": userDevice
+                },
+                success: function (response) {
+                    var Data = JSON.parse(response);
+                    alert("Your best reaction time has been saved!");
+                },
+                failure: function () {
+                    var Data = JSON.parse(response);
+                    alert(response);
+                },
+                error: function () {
+                    var Data = JSON.parse(response);
+                    alert(response);
+                }
+
+            });
+        };
+    </script>
+</body>
+</html>
