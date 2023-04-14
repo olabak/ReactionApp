@@ -65,7 +65,7 @@
 
     <div>
         <button class="s" onclick="gameStart()" type="button">Start Game</button>
-        <button class="s" id="SaveGame" type="button">Save Game</button>
+        @*<button class="s" id="SaveGame" type="button">Save Game</button>*@
 
     </div>
     <p class="p">Reaction time: <span id="time">0</span>s</p>
@@ -131,6 +131,45 @@
 
         }
 
+        function SaveGame() {
+            var min = 10000;
+            for (var i = 0; i < list.length; i++) {
+
+                if (min >= list[i]) {
+                    min = list[i];
+                }
+
+
+            }
+            var userAge = document.getElementById("userAge").value;
+            var userDevice = document.getElementById("userDevice").value;
+            reactionSpan = min * 1000;
+
+            $.ajax({
+                url: '@Url.Action("AddRecordToReactionTest", "ReactionTest")',
+                type: 'POST',
+                data: {
+                    "span": reactionSpan,
+                    "testName": testName,
+                    "userAge": userAge,
+                    "userDevice": userDevice
+                },
+                success: function (response) {
+                    var Data = JSON.parse(response);
+                    alert("Your best reaction time has been saved!");
+                },
+                failure: function () {
+                    var Data = JSON.parse(response);
+                    alert(response);
+                    consol.log("zjebane")
+                },
+                error: function () {
+                    var Data = JSON.parse(response);
+                    alert(response);
+                }
+            });
+        }
+
         function gameStart() {
              var a = 0;
              document.getElementById("userAge").style.display = 'none';
@@ -144,11 +183,16 @@
                 list[a] = reactionTime;
                 a++;
                 makebox();
+                if (a == 6) {
+                    console.log("WCHODZE I ZAPISUJE");
+                    SaveGame();
+
+                }
             }
             makebox();
         }
 
-        document.getElementById("SaveGame").onclick = function () {
+        @*document.getElementById("SaveGame").onclick = function () {
 
             var min = 10000;
             for (var i = 0; i < list.length; i++) {
@@ -184,7 +228,7 @@
                 }
 
             });
-        };
+        };*@
     </script>
 </body>
 </html>
