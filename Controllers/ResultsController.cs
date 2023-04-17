@@ -32,21 +32,21 @@ namespace ReactionTimeApp.Controllers
         {
             var id = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var founded = _context.ReactionTests.Where(x => x.ApplicationUserId == id).ToList();
-            var easy = founded.Where(x => x.Name == "Easy").OrderBy(x => x.ReactionTime).ToList();
+            var easy = founded.Where(x => x.Name == "Easy").ToList();
             return View(easy);
         }
         public IActionResult Medium()
         {
             var id = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var founded = _context.ReactionTests.Where(x => x.ApplicationUserId == id).ToList();
-            var easy = founded.Where(x => x.Name == "Medium").OrderBy(x => x.ReactionTime).ToList();
+            var easy = founded.Where(x => x.Name == "Medium").ToList();
             return View(easy);
         }
         public IActionResult Hard()
         {
             var id = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var founded = _context.ReactionTests.Where(x => x.ApplicationUserId == id).ToList();
-            var easy = founded.Where(x => x.Name == "Hard").OrderBy(x => x.ReactionTime).ToList();
+            var easy = founded.Where(x => x.Name == "Hard").ToList();
             return View(easy);
         }
         public IActionResult TinyShapes()

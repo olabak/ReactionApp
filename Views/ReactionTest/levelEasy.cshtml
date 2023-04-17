@@ -47,6 +47,13 @@
             display: none;
             position: relative;
         }
+        #userAge {
+            display: none;
+        }
+
+        #userDevice {
+            display: none;
+        }
     </style>
 
 </head>
@@ -57,6 +64,7 @@
         <h2>Speed level easy</h2>
         <h4>Before you start, please enter your age and the device you are using. </h4>
         <h5> Click "Save Game" to save your best result.</h5>
+ 
     </div>
     <div>
         <input id="userAge" type="number" placeholder="Type your age">
@@ -183,7 +191,7 @@
                 list[a] = reactionTime;
                 a++;
                 makebox();
-                if (a == 6) {
+                if (a == 3) {
                     console.log("WCHODZE I ZAPISUJE");
                     SaveGame();
 

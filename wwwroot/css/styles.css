@@ -4,9 +4,23 @@
   box-sizing: border-box;
 }
 
-.game {
-    color: red;
+a {
+    text-decoration: none;
 }
+
+    a:hover {
+        text-decoration: none;
+    }
+
+.game {
+    color: forestgreen;
+    text-decoration:none;
+}
+
+ .game:hover {
+     color: lightgreen;
+     
+ }
 
 body {
 /*    height: 100vh;
